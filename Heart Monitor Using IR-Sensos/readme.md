@@ -1,4 +1,4 @@
-# Heart Monitor Using IR-Sensor
+# Heart Monitor Using IR-Sensor (with ABBA HADIL)
 This folder contains a LabVIEW project that implements a heart rate (BPM) monitoring system using IR (infrared) sensors. The project was carried out as part of my academic work at the University of Montpellier.
 ![Image](https://github.com/user-attachments/assets/f685c43c-f2de-427b-97de-6a332209987c)
 ## Project Overview
